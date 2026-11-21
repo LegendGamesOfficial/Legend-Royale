@@ -1,0 +1,9 @@
+{
+  "shopItems": [
+    { "id": "skin_trooper", "name": "Trooper", "type": "skin", "rarity": 2, "price": 300 },
+    { "id": "skin_assault_trooper", "name": "Assault Trooper", "type": "skin", "rarity": 2, "price": 300 },
+    { "id": "glider_battledrop", "name": "Battledrop", "type": "glider", "rarity": 2, "price": 200 },
+    { "id": "pickaxe_trusty_shovel", "name": "Trusty Shovel", "type": "pickaxe", "rarity": 2, "price": 200 },
+    { "id": "emote_dab", "name": "Dab", "type": "emote", "rarity": 2, "price": 100 }
+  ]
+}
