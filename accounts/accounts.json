@@ -47,7 +47,7 @@
         "emote_disco_fever",
         "emote_dab"
       ],
-      "claimedBattlePassLevels": [],
+      "claimedBattlePassLevels": 125,
       "loadout": {
         "skin": "default_skin_1",
         "pickaxe": "default_pickaxe",
