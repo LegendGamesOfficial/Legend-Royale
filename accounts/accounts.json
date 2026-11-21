@@ -1,3 +1,4 @@
+
 {
   "accounts": [
     {
@@ -5,18 +6,46 @@
       "password": "12312348KK",
       "displayName": "legend (DEV)",
       "role": "dev",
-      "level": 1,
-      "xp": 0,
+      "level": 1000,
+      "xp": 999999999,
       "lbucks": 500,
-      "banner": { "icon": "crown", "color": "#2563eb" },
+      "banner": {
+        "icon": "crown",
+        "color": "#2563eb"
+      },
       "ownedItems": [
         "default_skin_1",
         "default_skin_2",
         "default_skin_3",
         "default_skin_4",
+        "skin_prisma",
+        "skin_goofball",
+        "skin_stealth_trooper",
+        "skin_black_knight",
+        "skin_assasin",
+        "skin_trooper",
+        "skin_assault_trooper",
         "default_pickaxe",
+        "pickaxe_prisma_axe",
+        "pickaxe_balloon_axe",
+        "pickaxe_stealth_axe",
+        "pickaxe_black_sword",
+        "pickaxe_pencil_axe",
+        "pickaxe_trusty_shovel",
         "default_glider",
-        "emote_dance_moves"
+        "glider_smiley_drop",
+        "glider_lol_landing",
+        "glider_stealth",
+        "glider_medevil_landing",
+        "glider_creative_entry",
+        "glider_battledrop",
+        "emote_dance_moves",
+        "emote_squat_kick",
+        "emote_take_the_l",
+        "emote_doom",
+        "emote_kneel_of_honor",
+        "emote_disco_fever",
+        "emote_dab"
       ],
       "claimedBattlePassLevels": [],
       "loadout": {
@@ -45,7 +74,10 @@
       "level": 1,
       "xp": 0,
       "lbucks": 200,
-      "banner": { "icon": "star", "color": "#7c3aed" },
+      "banner": {
+        "icon": "star",
+        "color": "#7c3aed"
+      },
       "ownedItems": [
         "default_skin_1",
         "default_skin_2",
