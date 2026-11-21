@@ -1,0 +1,39 @@
+{
+  "items": [
+    { "id": "default_skin_1", "name": "Default Skin 1", "type": "skin", "rarity": 1, "price": 0, "colors": { "shirt": "#3d5a3b", "pants": "#2d3436", "skin": "#e0ac69", "hair": "#3b2314", "accent": "#c2a878", "helmet": null } },
+    { "id": "default_skin_2", "name": "Default Skin 2", "type": "skin", "rarity": 1, "price": 0, "colors": { "shirt": "#4b5563", "pants": "#1f2937", "skin": "#8d5524", "hair": "#111827", "accent": "#9ca3af", "helmet": null } },
+    { "id": "default_skin_3", "name": "Default Skin 3", "type": "skin", "rarity": 1, "price": 0, "colors": { "shirt": "#854d0e", "pants": "#3f2e18", "skin": "#f1c27d", "hair": "#b45309", "accent": "#d97706", "helmet": null } },
+    { "id": "default_skin_4", "name": "Default Skin 4", "type": "skin", "rarity": 1, "price": 0, "colors": { "shirt": "#1e3a8a", "pants": "#1e293b", "skin": "#c68642", "hair": "#1f2937", "accent": "#60a5fa", "helmet": null } },
+    { "id": "skin_prisma", "name": "Prisma", "type": "skin", "rarity": 3, "price": 0, "colors": { "shirt": "#06b6d4", "pants": "#312e81", "skin": "#f1c27d", "hair": "#ec4899", "accent": "#f472b6", "visor": "#22d3ee" } },
+    { "id": "skin_goofball", "name": "Goofball", "type": "skin", "rarity": 3, "price": 0, "colors": { "shirt": "#facc15", "pants": "#ef4444", "skin": "#f1c27d", "hair": "#3b82f6", "accent": "#22c55e", "hat": "propeller" } },
+    { "id": "skin_stealth_trooper", "name": "Stealth Trooper", "type": "skin", "rarity": 4, "price": 0, "colors": { "shirt": "#111827", "pants": "#0f172a", "skin": "#c68642", "hair": "#030712", "accent": "#10b981", "helmet": "tactical" } },
+    { "id": "skin_black_knight", "name": "Black Knight", "type": "skin", "rarity": 5, "price": 0, "colors": { "shirt": "#18181b", "pants": "#09090b", "skin": "#18181b", "hair": "#18181b", "accent": "#dc2626", "helmet": "knight" } },
+    { "id": "skin_assasin", "name": "Assasin", "type": "skin", "rarity": 5, "price": 0, "colors": { "shirt": "#09090b", "pants": "#18181b", "skin": "#e0ac69", "hair": "#111827", "accent": "#f59e0b", "helmet": "hood" } },
+    { "id": "skin_trooper", "name": "Trooper", "type": "skin", "rarity": 2, "price": 300, "colors": { "shirt": "#365314", "pants": "#1a2e05", "skin": "#e0ac69", "hair": "#3b2314", "accent": "#a3e635", "helmet": "army" } },
+    { "id": "skin_assault_trooper", "name": "Assault Trooper", "type": "skin", "rarity": 2, "price": 300, "colors": { "shirt": "#78350f", "pants": "#292524", "skin": "#c68642", "hair": "#1c1917", "accent": "#fb923c", "helmet": "commando" } },
+
+    { "id": "default_pickaxe", "name": "Default Pickaxe", "type": "pickaxe", "rarity": 1, "price": 0, "style": "classic", "color": "#64748b", "accent": "#f59e0b" },
+    { "id": "pickaxe_prisma_axe", "name": "Prisma-Axe", "type": "pickaxe", "rarity": 3, "price": 0, "style": "prism", "color": "#22d3ee", "accent": "#ec4899" },
+    { "id": "pickaxe_balloon_axe", "name": "Balloon Axe", "type": "pickaxe", "rarity": 3, "price": 0, "style": "balloon", "color": "#ef4444", "accent": "#facc15" },
+    { "id": "pickaxe_stealth_axe", "name": "Stealth Axe", "type": "pickaxe", "rarity": 4, "price": 0, "style": "tactical", "color": "#111827", "accent": "#10b981" },
+    { "id": "pickaxe_black_sword", "name": "Black Sword", "type": "pickaxe", "rarity": 5, "price": 0, "style": "sword", "color": "#18181b", "accent": "#dc2626" },
+    { "id": "pickaxe_pencil_axe", "name": "Pencil Axe", "type": "pickaxe", "rarity": 5, "price": 0, "style": "pencil", "color": "#facc15", "accent": "#f472b6" },
+    { "id": "pickaxe_trusty_shovel", "name": "Trusty Shovel", "type": "pickaxe", "rarity": 2, "price": 200, "style": "shovel", "color": "#78350f", "accent": "#94a3b8" },
+
+    { "id": "default_glider", "name": "Default Glider", "type": "glider", "rarity": 1, "price": 0, "style": "classic", "color": "#475569", "accent": "#eab308" },
+    { "id": "glider_smiley_drop", "name": "Smiley Drop", "type": "glider", "rarity": 3, "price": 0, "style": "wing", "color": "#facc15", "accent": "#111827" },
+    { "id": "glider_lol_landing", "name": "LOL Landing", "type": "glider", "rarity": 3, "price": 0, "style": "wing", "color": "#ec4899", "accent": "#38bdf8" },
+    { "id": "glider_stealth", "name": "Stealth", "type": "glider", "rarity": 4, "price": 0, "style": "jet", "color": "#0f172a", "accent": "#10b981" },
+    { "id": "glider_medevil_landing", "name": "Medevil Landing", "type": "glider", "rarity": 5, "price": 0, "style": "crest", "color": "#18181b", "accent": "#dc2626" },
+    { "id": "glider_creative_entry", "name": "Creative Entry", "type": "glider", "rarity": 5, "price": 0, "style": "prism", "color": "#8b5cf6", "accent": "#f59e0b" },
+    { "id": "glider_battledrop", "name": "Battledrop", "type": "glider", "rarity": 2, "price": 200, "style": "classic", "color": "#3f6212", "accent": "#f97316" },
+
+    { "id": "emote_dance_moves", "name": "Dance Moves", "type": "emote", "rarity": 1, "price": 0, "anim": "dance_moves" },
+    { "id": "emote_squat_kick", "name": "Squat Kick", "type": "emote", "rarity": 3, "price": 0, "anim": "squat_kick" },
+    { "id": "emote_take_the_l", "name": "Take The L", "type": "emote", "rarity": 3, "price": 0, "anim": "take_the_l" },
+    { "id": "emote_doom", "name": "Doom", "type": "emote", "rarity": 4, "price": 0, "anim": "doom" },
+    { "id": "emote_kneel_of_honor", "name": "Kneel Of Honor", "type": "emote", "rarity": 5, "price": 0, "anim": "kneel" },
+    { "id": "emote_disco_fever", "name": "Disco Fever", "type": "emote", "rarity": 5, "price": 0, "anim": "disco" },
+    { "id": "emote_dab", "name": "Dab", "type": "emote", "rarity": 2, "price": 100, "anim": "dab" }
+  ]
+}

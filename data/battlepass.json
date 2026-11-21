@@ -1,0 +1,62 @@
+{
+  "season": 1,
+  "xpPerLevel": 1000,
+  "maxLevel": 125,
+  "tiers": [
+    {
+      "tier": 1,
+      "title": "Tier 1 — Prism Awakening",
+      "rewards": [
+        { "level": 5, "itemId": "emote_squat_kick", "name": "Squat Kick", "type": "emote" },
+        { "level": 10, "itemId": "pickaxe_prisma_axe", "name": "Prisma-Axe", "type": "pickaxe" },
+        { "level": 15, "itemId": "glider_smiley_drop", "name": "Smiley Drop", "type": "glider" },
+        { "level": 20, "itemId": "lbucks_100", "name": "100 L-Bucks", "type": "lbucks", "amount": 100 },
+        { "level": 25, "itemId": "skin_prisma", "name": "Prisma", "type": "skin" }
+      ]
+    },
+    {
+      "tier": 2,
+      "title": "Tier 2 — Wildcard Chaos",
+      "rewards": [
+        { "level": 30, "itemId": "emote_take_the_l", "name": "Take The L", "type": "emote" },
+        { "level": 35, "itemId": "pickaxe_balloon_axe", "name": "Balloon Axe", "type": "pickaxe" },
+        { "level": 40, "itemId": "glider_lol_landing", "name": "LOL Landing", "type": "glider" },
+        { "level": 45, "itemId": "lbucks_100", "name": "100 L-Bucks", "type": "lbucks", "amount": 100 },
+        { "level": 50, "itemId": "skin_goofball", "name": "Goofball", "type": "skin" }
+      ]
+    },
+    {
+      "tier": 3,
+      "title": "Tier 3 — Shadow Ops",
+      "rewards": [
+        { "level": 55, "itemId": "emote_doom", "name": "Doom", "type": "emote" },
+        { "level": 60, "itemId": "pickaxe_stealth_axe", "name": "Stealth Axe", "type": "pickaxe" },
+        { "level": 65, "itemId": "glider_stealth", "name": "Stealth", "type": "glider" },
+        { "level": 70, "itemId": "lbucks_100", "name": "100 L-Bucks", "type": "lbucks", "amount": 100 },
+        { "level": 75, "itemId": "skin_stealth_trooper", "name": "Stealth Trooper", "type": "skin" }
+      ]
+    },
+    {
+      "tier": 4,
+      "title": "Tier 4 — Royal Darkness",
+      "rewards": [
+        { "level": 80, "itemId": "emote_kneel_of_honor", "name": "Kneel Of Honor", "type": "emote" },
+        { "level": 85, "itemId": "pickaxe_black_sword", "name": "Black Sword", "type": "pickaxe" },
+        { "level": 90, "itemId": "glider_medevil_landing", "name": "Medevil Landing", "type": "glider" },
+        { "level": 95, "itemId": "lbucks_100", "name": "100 L-Bucks", "type": "lbucks", "amount": 100 },
+        { "level": 100, "itemId": "skin_black_knight", "name": "Black Knight", "type": "skin" }
+      ]
+    },
+    {
+      "tier": 5,
+      "title": "Tier 5 — Master Assassin",
+      "rewards": [
+        { "level": 105, "itemId": "emote_disco_fever", "name": "Disco Fever", "type": "emote" },
+        { "level": 110, "itemId": "pickaxe_pencil_axe", "name": "Pencil Axe", "type": "pickaxe" },
+        { "level": 115, "itemId": "glider_creative_entry", "name": "Creative Entry", "type": "glider" },
+        { "level": 120, "itemId": "lbucks_100", "name": "100 L-Bucks", "type": "lbucks", "amount": 100 },
+        { "level": 125, "itemId": "skin_assasin", "name": "Assasin", "type": "skin" }
+      ]
+    }
+  ]
+}

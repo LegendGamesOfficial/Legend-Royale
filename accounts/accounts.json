@@ -1,0 +1,78 @@
+{
+  "accounts": [
+    {
+      "username": "legend",
+      "password": "12312348KK",
+      "displayName": "legend (DEV)",
+      "role": "dev",
+      "level": 1,
+      "xp": 0,
+      "lbucks": 500,
+      "banner": { "icon": "crown", "color": "#2563eb" },
+      "ownedItems": [
+        "default_skin_1",
+        "default_skin_2",
+        "default_skin_3",
+        "default_skin_4",
+        "default_pickaxe",
+        "default_glider",
+        "emote_dance_moves"
+      ],
+      "claimedBattlePassLevels": [],
+      "loadout": {
+        "skin": "default_skin_1",
+        "pickaxe": "default_pickaxe",
+        "glider": "default_glider",
+        "bannerIcon": "crown",
+        "bannerColor": "#2563eb",
+        "emotes": [
+          "emote_dance_moves",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "username": "player1",
+      "password": "password123",
+      "displayName": "PlayerOne",
+      "role": "player",
+      "level": 1,
+      "xp": 0,
+      "lbucks": 200,
+      "banner": { "icon": "star", "color": "#7c3aed" },
+      "ownedItems": [
+        "default_skin_1",
+        "default_skin_2",
+        "default_skin_3",
+        "default_skin_4",
+        "default_pickaxe",
+        "default_glider",
+        "emote_dance_moves"
+      ],
+      "claimedBattlePassLevels": [],
+      "loadout": {
+        "skin": "default_skin_1",
+        "pickaxe": "default_pickaxe",
+        "glider": "default_glider",
+        "bannerIcon": "star",
+        "bannerColor": "#7c3aed",
+        "emotes": [
+          "emote_dance_moves",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    }
+  ]
+}
