@@ -1,42 +1,76 @@
 {
   "accounts": [
-    {
-      "username": "legend",
-      "password": "12312348KK",
-      "displayName": "legend (DEV)",
-      "role": "dev",
-      "level": 1,
-      "xp": 0,
-      "lbucks": 500,
-      "banner": { "icon": "crown", "color": "#2563eb" },
-      "ownedItems": [
-        "default_skin_1",
-        "default_skin_2",
-        "default_skin_3",
-        "default_skin_4",
-        "default_pickaxe",
-        "default_glider",
-        "emote_dance_moves"
-      ],
-      "claimedBattlePassLevels": [],
-      "loadout": {
-        "skin": "default_skin_1",
-        "pickaxe": "default_pickaxe",
-        "glider": "default_glider",
-        "bannerIcon": "crown",
-        "bannerColor": "#2563eb",
-        "emotes": [
-          "emote_dance_moves",
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      }
-    },
+   {
+  "username": "legend",
+  "password": "12312348KK",
+  "displayName": "legend (DEV)",
+  "role": "dev",
+  "level": 125,
+  "xp": 0,
+  "lbucks": 999999,
+  "banner": {
+    "icon": "crown",
+    "color": "#2563eb"
+  },
+  "ownedItems": [
+    "default_skin_1",
+    "default_skin_2",
+    "default_skin_3",
+    "default_skin_4",
+    "skin_prisma",
+    "skin_goofball",
+    "skin_stealth_trooper",
+    "skin_black_knight",
+    "skin_assasin",
+    "skin_trooper",
+    "skin_assault_trooper",
+    "default_pickaxe",
+    "pickaxe_prisma_axe",
+    "pickaxe_balloon_axe",
+    "pickaxe_stealth_axe",
+    "pickaxe_black_sword",
+    "pickaxe_pencil_axe",
+    "pickaxe_trusty_shovel",
+    "default_glider",
+    "glider_smiley_drop",
+    "glider_lol_landing",
+    "glider_stealth",
+    "glider_medevil_landing",
+    "glider_creative_entry",
+    "glider_battledrop",
+    "emote_dance_moves",
+    "emote_squat_kick",
+    "emote_take_the_l",
+    "emote_doom",
+    "emote_kneel_of_honor",
+    "emote_disco_fever",
+    "emote_dab"
+  ],
+  "claimedBattlePassLevels": [
+    5, 10, 15, 20, 25,
+    30, 35, 40, 45, 50,
+    55, 60, 65, 70, 75,
+    80, 85, 90, 95, 100,
+    105, 110, 115, 120, 125
+  ],
+  "loadout": {
+    "skin": "skin_black_knight",
+    "pickaxe": "pickaxe_black_sword",
+    "glider": "glider_stealth",
+    "bannerIcon": "crown",
+    "bannerColor": "#2563eb",
+    "emotes": [
+      "emote_dance_moves",
+      "emote_squat_kick",
+      "emote_take_the_l",
+      "emote_doom",
+      "emote_kneel_of_honor",
+      "emote_disco_fever",
+      "emote_dab",
+      null
+    ]
+  }
+}
     {
       "username": "player1",
       "password": "password123",
